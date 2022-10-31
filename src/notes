@@ -1,0 +1,40 @@
+          Learn React
+
+          https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks
+          https://www.awwwards.com/sites/metacrafters
+          https://conceptstudio.com/en/about-us/
+
+          https://javascript.plainenglish.io/creating-an-interactive-background-in-react-with-particles-js-263c2dec30df
+
+          https://vincentgarreau.com/particles.js/#default
+
+          https://www.youtube.com/watch?v=hYv6BM2fWd8
+
+
+        Mosh
+        https://www.youtube.com/watch?v=Ke90Tje7VS0
+
+
+keyboard shortcuts
+
+cc -> create component
+imrc --> import react component from react
+strg k c --> multi line comment
+ctrl k u --> uncomment
+select __ strg d --> select other instances with multi cursor (edit multipole instances at once)
+sfc --> create stateless functional component
+
+
+lifecycle hooks
+
+MOUNT
+constructor
+render
+componentDidMount
+
+UPDATE
+render
+componentDidUpdate
+
+UNMOUNT
+componentWillUnmount
